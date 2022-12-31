@@ -1,0 +1,3 @@
+# Additive-manufacturing
+
+The topic of the project has been to completely design, 3D print and race with an electric motor-driven boat. The used softwares was Inventor for the boat design and Prusa Slicer for the CAM path; an hydrojet, composed of three components, has been chosen as a final boat design leveraging a complex design; this to exploit hydrojet specific charateristics. The target of the project was to minimise printing time and boat weight, while maximising its speed; a vertical printing layout allowed to achieve the targets and to avoid the use of support structures, while boat design grandet good speed results during the race.
